@@ -47,11 +47,12 @@ Replace your-bucket-name with the actual bucket name or use a wildcard * to gran
 
 ## Testing
 ### Using Postman
-Method: POST
-URL: https://your-api-id.execute-api.region.amazonaws.com/stage/resource
-Body:
-Choose raw.
-Select JSON.
+- Method: POST
+- URL: https://your-api-id.execute-api.region.amazonaws.com/stage/resource
+- Body:
+- Choose raw.
+- Select JSON.
+
 Provide the JSON payload as described above.
 
 ## Example Response
